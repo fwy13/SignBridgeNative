@@ -1,0 +1,5 @@
+package com.fwy13.signbridge.data
+
+internal fun ModelContent12(): String = listOf(
+    "{\n  \"0\": \"rang muối\",\n  \"1\": \"tôm\",\n  \"2\": \"lột da cá\",\n  \"3\": \"lột vỏ tôm\",\n  \"4\": \"vn/hoa-de/lay-chi-tom\",\n  \"5\": \"cắt kỳ\",\n  \"6\": \"D\",\n  \"7\": \"E\",\n  \"8\": \"M\",\n  \"9\": \"N\",\n  \"10\": \"O\",\n  \"11\": \"P\",\n  \"12\": \"Q\",\n  \"13\": \"R\",\n  \"14\": \"S\",\n  \"15\": \"T\",\n  \"16\": \"U\",\n  \"17\": \"V\",\n  \"18\": \"đánh vẩy cá\",\n  \"19\": \"A\",\n  \"20\": \"B\",\n  \"21\": \"C\",\n  \"22\": \"G\",\n  \"23\": \"H\",\n  \"24\": \"I\",\n  \"25\": \"K\",\n  \"26\": \"L\",\n  \"27\": \"X\",\n  \"28\": \"Y\",\n  \"29\": \"cắt đầu cá\",\n  \"30\": \"Miến Điện\",\n  \"31\": \"Z\",\n  \"32\": \"nhân viên\",\n  \"33\": \"máy khoan\",\n  \"34\": \"khoan\",\n  \"35\": \"đồ đạc\",\n  \"36\": \"cà phê\",\n  \"37\": \"chào cờ\",\n  \"38\": \"phục vụ\",\n  \"39\": \"vào lớp\",\n  \"40\": \"nặn mụn\",\n  \"41\": \"úp móng\",\n  \"42\": \"vn/nam/dia-chi\",\n  \"43\": \"vn/bac/dia-chi\",\n  \"44\": \"vn/testdata/gio-tay\",\n  \"45\": \"vn/testdata/testlive3\"\n}\n"
+).joinToString("")
